@@ -30,7 +30,7 @@ class GPT:
     def query_api(self):
         openai.api_key = self._OPEN_AI_API_KEY
         response = openai.ChatCompletion.create(
-            model="gpt-3.5-turbo",
+            model="gpt-4",
             messages=self.messages,
         )
         return response["choices"][0]['message']["content"]
