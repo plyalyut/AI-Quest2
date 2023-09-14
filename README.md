@@ -11,8 +11,6 @@ Welcome to the AI Quest 2 repository! This game merges the immersive capabilitie
 AI Quest 2 positions the player in an expansive space setting. Guided and narrated by GPT, players will take turns conversing with the narrator. The game dynamically tracks player state, health, inventory, and choices, ensuring a unique experience every time.
 
 ## Features
-
-- **Open World Exploration**: Travel across galaxies, discover new planets, and encounter alien species.
   
 - **Dynamic Storytelling**: With the GPT narrator, every choice you make has a consequence. Forge your path and see where the story takes you.
   
