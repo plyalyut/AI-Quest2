@@ -10,6 +10,7 @@ Welcome to the AI Quest 2 repository! This game merges the immersive capabilitie
 
 AI Quest 2 positions the player in an expansive space setting. Guided and narrated by GPT, players will take turns conversing with the narrator. The game dynamically tracks player state, health, inventory, and choices, ensuring a unique experience every time.
 
+
 ![Screenshot 2023-09-14 at 2 30 27 AM](https://github.com/plyalyut/ai-quest2/assets/22432684/ca86cdfa-f947-4872-a248-09cc944b6ff6)
 
 ## Features
@@ -31,6 +32,22 @@ AI Quest 2 positions the player in an expansive space setting. Guided and narrat
 3. **Inventory Management**: Check your items regularly and decide when to use them. Some items may help you advance in the story, while others might save you in perilous situations.
   
 4. **Survive**: Watch your health! Engage in battles, avoid hazards, and make sure you're always ready for what's ahead.
+
+## Example Game
+
+```diff
++ Suddenly, a beeping sound rings out in the spaceship; The Stardust Explorer's fuel tank is almost empty. You spot two nearby planets through the window. One is Planet Xenon, which is known for an abundant supply of fuel but frequented by space pirates. The other is safer, the misty Planet Yttrium but you're not sure if there's enough fuel. If you're fortunate, there might be some discarded medkits or tools on either planet. Which planet do you visit? Planet Xenon (known to be dangerous) or Planet Yttrium (safer but uncertain fuel supply)?
+# What do you do? Planet Yttrium
++ After hours of navigating through the star-studded darkness of space, you finally reach the Planet Yttrium. It's a beaten up, rocky terrain filled with old remnants of a long-lost civilization. As you explore, you trip over an object embedded in the dirt and you lose some health. Upon closer inspection, you realize it's a 'Polaron Pulse Pistol', an ancient yet trusted weapon.
+- You lost health! Your health is now 90
+! You gained an item! Your items are now ['Polaron Pulse Pistol']
+# What do you do? what does the Polaron Pulse Pistol do 
+! The Polaron Pulse Pistol is a powerful energy pistol used for defending against alien threats. It shoots a pulse of polaron particles that can stun or incapacitate most creatures and harm mechanical devices. Use it wisely as it carries a limited amount of charges.
+# What do you do? Continue explroing yttrium
++ You continue exploring Yttrium. You tread lightly across the rocky terrain, eyes warily scoping the ever-watchful twilight. As you press on, you trip over a hidden trap. The result is a fall into a shallow canyon, scrapping your elbow in the process. On a bright side, you find a half-buried item next to you.
+- You lost health! Your health is now 80
+! You gained an item! Your items are now ['Polaron Pulse Pistol', 'Space Compass']
+```
 
 ## Installation
 
