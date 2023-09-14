@@ -1,4 +1,9 @@
+
+![DALL·E 2023-09-14 02 35 02 - a spaceship overlooking an exotic planets in pixel art](https://github.com/plyalyut/ai-quest2/assets/22432684/636d7400-1ea1-4ca9-8f5d-e6c37574747d)
+
 # AI Quest 2
+![Screenshot 2023-09-14 at 2 30 27 AM](https://github.com/plyalyut/ai-quest2/assets/22432684/ca86cdfa-f947-4872-a248-09cc944b6ff6)
+
 
 Welcome to the AI Quest 2 repository! This game merges the immersive capabilities of AI storytelling with open-world exploration set in a vast universe. Experience a unique adventure where every conversation you have and decision you make with the GPT narrator will shape your journey!
 
