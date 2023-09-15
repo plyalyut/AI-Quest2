@@ -51,8 +51,8 @@ AI Quest 2 positions the player in an expansive space setting. Guided and narrat
 
 
 ```bash
-git clone https://github.com/plyalyut/ai-quest2.git
-cd ai-quest2
+git clone https://github.com/plyalyut/AI-Quest2.git
+cd AI-Quest2
 pip3 install -r requirements.txt
 ```
 
