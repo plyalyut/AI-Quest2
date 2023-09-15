@@ -30,6 +30,8 @@ AI Quest 2 positions the player in an expansive space setting. Guided and narrat
 
 ## Example Game
 
+![t-rec](https://github.com/plyalyut/ai-quest2/assets/22432684/07381547-c19f-4deb-a42d-979e32265f99)
+
 ```diff
 + Suddenly, a beeping sound rings out in the spaceship; The Stardust Explorer's fuel tank is almost empty. You spot two nearby planets through the window. One is Planet Xenon, which is known for an abundant supply of fuel but frequented by space pirates. The other is safer, the misty Planet Yttrium but you're not sure if there's enough fuel. If you're fortunate, there might be some discarded medkits or tools on either planet. Which planet do you visit? Planet Xenon (known to be dangerous) or Planet Yttrium (safer but uncertain fuel supply)?
 # What do you do? Planet Yttrium
